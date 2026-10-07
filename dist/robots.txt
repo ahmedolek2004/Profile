@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmedolek2004.github.io/Portfolio_project/sitemap.xml
