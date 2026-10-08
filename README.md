@@ -3,7 +3,7 @@
 A simple, static, single-page portfolio built with React, TypeScript, Vite, and Tailwind CSS.
 No backend, no API calls, no environment variables.
 
-Live: https://ahmedolek2004.github.io/Portfolio_project/
+Live: https://ahmedolek2004.github.io/profile/
 
 ## Run it
 
